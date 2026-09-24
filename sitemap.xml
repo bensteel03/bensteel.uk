@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>bensteel.uk</loc>
+	<lastmod>2026-09-24</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>bensteel.uk/img/0dfca175-23de-4207-99b5-4bc78a8ded3c.png</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>bensteel.uk/img/0dfca175-23de-4207-99b5-4bc78a8ded3c.webp</image:loc>
+	<image:title>placeholder user</image:title>
+	</image:image>
+</url>
+<url>
+	<loc>bensteel.uk/photography/</loc>
+	<lastmod>2026-09-24</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>0.5</priority>
+</url>
+</urlset>
